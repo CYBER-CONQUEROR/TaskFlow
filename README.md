@@ -353,7 +353,7 @@ Authentication
 
 # 👨‍💻 Author
 
-Developed by **Ayesh Ranawaka**
+Developed by **Dinusha Sampath**
 
 GitHub
 
