@@ -1,4 +1,3 @@
-# TaskFlow
 # 🚀 TaskFlow
 
 <div align="center">
