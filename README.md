@@ -1,4 +1,6 @@
-![TaskFlow Banner](assets/banner.png)
+<p align="center">
+    <img src="assets/banner.png" alt="TaskFlow Banner" width="100%">
+</p>
 
 # 🚀 TaskFlow
 
