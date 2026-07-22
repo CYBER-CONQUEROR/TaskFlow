@@ -1,3 +1,5 @@
+![TaskFlow Banner](assets/banner.png)
+
 # 🚀 TaskFlow
 
 <div align="center">
